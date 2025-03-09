@@ -23,6 +23,12 @@
 - Дождитесь окончания загрузки редактора
 - Нажмите на кнопку "Simulate" чтобы запустить проект.
 
+## Скриншоты
+![image](https://github.com/user-attachments/assets/d4fb0df1-747e-4565-8b81-480346a33b6d)
+![image](https://github.com/user-attachments/assets/e6b4ccee-f402-463e-ba4b-1ee284607507)
+![image](https://github.com/user-attachments/assets/95c9a556-7017-4116-92c9-e3259b3c2d7b)
+
+
 ## Авторство
 Игра разработана Асланом Кутаевым (ASKUT KRIMSON) в качестве тестового задания для отбора в RTUITLab по направлению игровой разработки на UnrealEngine.
 
